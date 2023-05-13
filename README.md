@@ -29,7 +29,7 @@ After adding webpack and babel in my package.json I did an npm i
 
 ![alt text](./client/src/images/app-finished.png)
 
-[Click here to go to the deployed url](https://drive.google.com/file/d/1zGuKZzuoalbatS5zntjUP5z35saLKSWd/view)
+[Click here to go to the deployed url](https://text-editor-gina.herokuapp.com/)
 
 
 
